@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:Ciencia ficción</id>
 <title>Ciencia ficción</title>
-<updated>2026-09-26T15:10:13.479765+00:00</updated>
+<updated>2026-09-26T16:07:53.284810+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/Deiviz25/opds-nextnovels/main/catalogo/generos-5.xml" type="application/atom+xml;profile=opds-catalog"/>
 <entry>
 <title>86 (Eighty Six) Novela Ligera en Español</title>

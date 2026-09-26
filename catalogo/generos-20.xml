@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:Josei</id>
 <title>Josei</title>
-<updated>2026-09-26T15:10:13.510121+00:00</updated>
+<updated>2026-09-26T16:07:53.317018+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/Deiviz25/opds-nextnovels/main/catalogo/generos-20.xml" type="application/atom+xml;profile=opds-catalog"/>
 <entry>
 <title>Fake It to Break It! Novela Ligera en Español</title>
