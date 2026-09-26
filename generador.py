@@ -103,7 +103,7 @@ def main():
             b=parse(u)
             if b['title']: books.append(b); print(f'[{i}/{len(urls)}] {b["title"]}')
         except Exception as e: print('[WARN]',u,e)
-        time.sleep(.2)
+        time.sleep(1)
     if len(books)<MIN_VALID:
         if len(old)>=MIN_VALID: books=old
         else: raise RuntimeError(f'NextNovels devolvió muy pocos resultados: {len(books)}')
