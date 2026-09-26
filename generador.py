@@ -6,8 +6,8 @@ import re
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urlparse, quoteattr
-from xml.sax.saxutils import escape
+from urllib.parse import urljoin, urlparse
+from xml.sax.saxutils import escape, quoteattr
 
 import requests
 from bs4 import BeautifulSoup
