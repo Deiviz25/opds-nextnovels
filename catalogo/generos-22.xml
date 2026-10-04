@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
 <id>nextnovels:generos:Magia</id>
 <title>Magia</title>
-<updated>2026-09-27T07:25:23.566809+00:00</updated>
+<updated>2026-10-04T07:37:42.292097+00:00</updated>
 <link rel="self" href="https://raw.githubusercontent.com/Deiviz25/opds-nextnovels/main/catalogo/generos-22.xml" type="application/atom+xml;profile=opds-catalog"/>
 <entry>
 <title>Kenja no Deshi wo Nanoru Kenja Novela Ligera en Español</title>
